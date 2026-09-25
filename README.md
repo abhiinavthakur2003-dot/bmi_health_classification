@@ -1,3 +1,5 @@
+# Live Demo https://bmiabhinav.streamlit.app/
+
 # 🩺 BMI Health Classification
 
 A Machine Learning project that predicts a BMI category using **Gender, Height, and Weight**.
